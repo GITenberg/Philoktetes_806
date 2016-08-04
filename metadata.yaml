@@ -1,0 +1,34 @@
+_repo: Philoktetes_806
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: McNamee, Gregory
+    birthdate: 1957
+    gutenberg_agent_id: '421'
+    url: http://www.gutenberg.org/2009/agents/421
+creator:
+  author:
+    agent_name: Sophocles
+    alias: Σοφοκλής
+    birthdate: -496
+    deathdate: -406
+    gutenberg_agent_id: '26'
+    url: http://www.gutenberg.org/2009/agents/26
+    wikipedia: http://en.wikipedia.org/wiki/Sophocles
+description: ''
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '806'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Trojan War -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PA'
+- !lcsh 'Philoctetes (Mythological character) -- Drama'
+- GITenberg
+title: Philoktetes
+url: http://www.gutenberg.org/ebooks/806
