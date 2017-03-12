@@ -1,11 +1,14 @@
 _repo: Philoktetes_806
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: McNamee, Gregory
     birthdate: 1957
     gutenberg_agent_id: '421'
     url: http://www.gutenberg.org/2009/agents/421
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sophocles
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26
     wikipedia: http://en.wikipedia.org/wiki/Sophocles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/806#Philoktetes
 gutenberg_issued: '1997-02-01'
 gutenberg_type: Text
 identifiers:
